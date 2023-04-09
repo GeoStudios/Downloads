@@ -1,6 +1,7 @@
 # Downloads
 
-### [Super Calc](https://github.com/GeoStudios/Downloads/releases/download/SuperCalc_1.0/SuperCalc.jar)
+### [Super Calc (latest)](https://github.com/GeoStudios/Downloads/releases/download/SuperCalc_1.0/SuperCalc.jar)
+### [Jar Builder (latest)](https://github.com/GeoStudios/Downloads/releases/download/Jar_Builder1/Compiler.bat)
 
 
 ## Old
